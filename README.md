@@ -29,8 +29,26 @@ This project is a simple REST API built with **Node.js** and **Express** to hand
 ```bash
 git clone https://github.com/brandoneck/nodeApiProducts.git
 cd nodeApiProducts
-npm run dev
 ```
+
+2. Install dependencies:
+   
+```bash
+npm install
+```
+
+3. Create a .env file in the root of the project and add the following variable:
+
+   ```env
+     MONGO_URI=your_mongodb_uri_here
+   ```
+  
+5. Start the Application
+   ```bash
+      npm start
+    ```
+   
+The API will run at http://localhost:3000
 
 ---
 
