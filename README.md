@@ -30,6 +30,7 @@ This project is a simple REST API built with **Node.js** and **Express** to hand
 git clone https://github.com/brandoneck/nodeApiProducts.git
 cd nodeApiProducts
 npm run dev
+```
 
 ---
 
