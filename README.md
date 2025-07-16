@@ -29,9 +29,14 @@ This project is a simple REST API built with **Node.js** and **Express** to hand
 ```bash
 git clone https://github.com/brandoneck/nodeApiProducts.git
 cd nodeApiProducts
+npm run dev
 
-✨ About the Author
-👋 Hi! I’m Brandon, a frontend developer passionate about building clean, intuitive web apps.
-🎸 I also play guitar with my band and love mixing tech with creativity.
+---
 
-📬 Feel free to connect on LinkedIn or check out more projects on GitHub.
+## ✨ About the Author
+
+👋 Hi! I’m Brandon, a frontend developer passionate about building clean, intuitive web apps.  
+🎸 I also play guitar with my band and love mixing tech with creativity.  
+
+📬 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/brandonlr/) or check out more projects on [GitHub](https://github.com/brandoneck).
+
